@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=kevin.desktop
+Exec=python autostart.py
+OnlyShowIn=GNOME;Unity;
+NoDisplay=false
+Name[en_US]=startup.desktop
